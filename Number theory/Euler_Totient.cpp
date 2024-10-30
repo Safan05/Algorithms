@@ -1,3 +1,8 @@
+#include <vector>
+#include <iostream>
+#include <map>
+#include <cmath>
+using namespace std;
 vector<int> eulerTotient(int n) {
     vector<int> phi(n + 1);
     for (int i = 1; i <= n; i++) phi[i] = i;
@@ -10,3 +15,6 @@ vector<int> eulerTotient(int n) {
     }
     return phi;
 }
+/*
+Sieve like way in O(N*log(log(N))) time complexity and compute it using that phi[i] = multiplication of prime factors of i;
+*/
