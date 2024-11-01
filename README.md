@@ -60,9 +60,9 @@ A curated collection of videos and resources to master various topics in competi
 ---
 
 ### DS
-
 - **Scanline Algorithm**
-   -https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F
+    -[To Study](https://www.youtube.com/watch?v=lFBpH_Mt_LI&t=412s) 
+   -[quesition 1](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F)
 ---
 
 For more problems on these topics, check out this [Codeforces blog post](https://codeforces.com/blog/entry/55274).
