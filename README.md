@@ -10,6 +10,7 @@ A curated collection of videos and resources to master various topics in competi
 - [Number Theory](#number-theory)
 - [Segment Tree](#segment-tree)
 - [Trie](#trie)
+- [DataStructure](#DS)
 
 ---
 
@@ -56,6 +57,12 @@ A curated collection of videos and resources to master various topics in competi
 - **Mahmoud Ayman**
   - [Trie Video](https://youtu.be/rOaKEQ71GhA?si=hqV586HZyo6bwcxc)
 
+---
+
+### DS
+
+- **Scanline Algorithm**
+   -https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F
 ---
 
 For more problems on these topics, check out this [Codeforces blog post](https://codeforces.com/blog/entry/55274).
