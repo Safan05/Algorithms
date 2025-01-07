@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "span": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    }
+}

@@ -1,3 +1,27 @@
+#include <iostream>
+#include <vector>
+#include <set>
+#include <map>
+#include <cstdio>
+#include <cstring>
+#include <queue>
+#include <cstdlib>
+#include <algorithm>
+#include <list>
+#include <unordered_map>
+#include <unordered_set>
+#include <string>
+#include <cmath>
+#include <bitset>
+#include <stack>
+#include <math.h>
+using namespace std;
+#define ll long long
+#define int long long
+#define endl "\n"
+#define read(a) for(auto &i: a) cin>>i
+#define write(a) for(auto &i: a) cout<<i<<" "
+#define SafanMan ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(0);
 struct Node {
 private:
     int val;
