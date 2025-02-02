@@ -11,7 +11,7 @@ A curated collection of videos and resources to master various topics in competi
 - [Segment Tree](#segment-tree)
 - [Trie](#trie)
 - [DataStructure](#DS)
-- [different Algorithms](#different-algo)
+- [Different Algorithms](#different-algo)
 ---
 
 ### Dynamic Programming (DP)
