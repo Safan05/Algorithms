@@ -11,7 +11,7 @@ A curated collection of videos and resources to master various topics in competi
 - [Segment Tree](#segment-tree)
 - [Trie](#trie)
 - [DataStructure](#DS)
-
+- [different Algorithms](#different-algo)
 ---
 
 ### Dynamic Programming (DP)
@@ -65,6 +65,10 @@ A curated collection of videos and resources to master various topics in competi
   -[quesition 1](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F)
   
 ---
+
+### Different Algorithms
+- **Kadane's Algorithn (Maximum subarray sum)**
+  [Know it](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)   
 
 For more problems on these topics, check out this [Codeforces blog post](https://codeforces.com/blog/entry/55274).
 
